@@ -4,7 +4,7 @@ O **ForSign Monitor** é uma aplicação que simplifica o processo de envio de a
 
 ## Instalação
 
-1. Faça o download do aplicativo para o seu sistema operacional a partir das [releases](https://github.com/forsign-digital/forsign-monitor/releases).
+1. Faça o download do aplicativo para o seu sistema operacional a partir das [releases](https://github.com/forsign-digital/forsign-monitor/releases/latest).
 2. Siga as instruções de instalação apropriadas para o seu sistema.
 
 ## Configuração
