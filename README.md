@@ -29,7 +29,7 @@ O aplicativo mapeia o diretório especificado, monitorando-o continuamente. Quan
 ### Registro de Envios
 
 Você pode consultar o log de envios, contendo informações como:
-- Nomee da operação
+- Nome da operação
 - Hora de atualização
 - Status do envio (Pendente, Sincronizando, Sucesso ou Falha)
 
