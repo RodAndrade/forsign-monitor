@@ -47,7 +47,7 @@ Ao iniciar o aplicativo, você será solicitado a configurar suas credenciais e 
 
 ### Monitoramento em Tempo Real
 
-O aplicativo mapeia o diretório especificado, monitorando-o continuamente. Quando um novo arquivo PDF é detectado, ele é automaticamente enviado para o ForSign.
+O aplicativo mapeia o diretório especificado, monitorando-o continuamente. Quando um novo arquivo PDF é detectado, ele é automaticamente enviado para a ForSign.
 
 ### Registro de Envios
 
