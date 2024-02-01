@@ -1,4 +1,4 @@
-# ForSign Monitor de envios
+# ForSign Monitor
 
 O **ForSign Monitor** é uma aplicação que simplifica o processo de envio de arquivos para a ForSign, oferecendo monitoramento em tempo real e controle eficiente. Este aplicativo é compatível com sistemas Windows e macOS (Intel).
 
